@@ -1,3 +1,3 @@
 #Learning git
 ## with Chris
-### with Shafeeq
+### with the Shafeeq
